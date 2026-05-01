@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Karan 👋<br><br>💻 Aspiring Web Developer  <br>⚛️ Currently learning React & JavaScript  <br>📚 Practicing Data Structures & Algorithms  <br>🚀 Building projects to improve my skills  <br><br>
+Hi, I'm Karan 👋<br><br>💻 Learning Computer  <br>⚛️ Currently learning React & JavaScript  <br>📚 Practicing Data Structures & Algorithms  <br>🚀 Building projects to improve my skills  <br><br>
 
 
 ## 🌐 Socials:
