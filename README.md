@@ -11,5 +11,6 @@ Hi, I'm Karan 👋<br><br>💻 Learning Computer  <br>⚛️ Currently learning 
 ![](https://github-readme-stats.shion.dev/api?username=KaranSingh-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=KaranSingh-007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KaranSingh-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=KaranSingh-007&theme=github-dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
