@@ -1,11 +1,11 @@
-# 💫 About Me:
+# About Me:
 
-Hi, I'm Karan 👋
+Hi, I'm Karan
 
-💻 Learning Computer
-⚛️ Currently learning React & JavaScript
-📚 Practicing Data Structures & Algorithms
-🚀 Building projects to improve my skills
+Learning Computer Science
+Currently learning React & JavaScript
+Practicing Data Structures & Algorithms
+Building projects to improve my skills
 
 ---
 
@@ -16,7 +16,7 @@ Hi, I'm Karan 👋
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
@@ -26,7 +26,7 @@ Hi, I'm Karan 👋
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=KaranSingh-007\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
 
