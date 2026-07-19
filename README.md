@@ -2,14 +2,13 @@
 
 Hi, I'm Karan
 
-Learning Computer Science
-Currently learning React & JavaScript
-Practicing Data Structures & Algorithms
+Computer Science Student ||
+Currently learning and practicing DSA and React ||
 Building projects to improve my skills
 
 ---
 
-## 🌐 Socials:
+##  Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/-karansingh-/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:karan7a43@gmail.com)
@@ -19,10 +18,9 @@ Building projects to improve my skills
 # Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ---
 
